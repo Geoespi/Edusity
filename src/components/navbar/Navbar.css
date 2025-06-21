@@ -1,6 +1,6 @@
 nav {
     width: 100%;
-    background: #333    /* Dark background for the navbar */;
+    /* background: #333    Dark background for the navbar; */
     color: #fff;       /* White text color for contrast */
     padding: 4px 0px; /* Padding for spacing */
     position: fixed;
