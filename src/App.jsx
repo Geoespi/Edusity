@@ -4,6 +4,7 @@ import Header from './components/header/HeaderComponent'
 import Programs from './components/programs/ProgramsComponent'
 import Title from './components/title/TitleComponent'
 import About from './components/about/AboutComponent'
+import Campus from './components/campus/CampusComponent'
 
 const App = () => {
   return (
@@ -14,6 +15,8 @@ const App = () => {
         <Title subtitle="Our Programs" title="What We Offer"/>
         <Programs />
         <About />
+        <Title subtitle="Gallery" title="Campus Photos"/>
+        <Campus />
       </div>
     </div>
   )
